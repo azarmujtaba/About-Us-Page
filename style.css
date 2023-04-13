@@ -1,0 +1,88 @@
+body{
+    direction: rtl;
+    font-family: IRANYekanmobile;
+    font-size: 20px;
+    color: #fff;
+    background-color: #191919;
+}
+
+
+
+.about{
+    width: 100%;
+    padding: 78px 0px;
+
+}
+
+.about img{
+    width: 420px;
+    border-radius: 15px;
+}
+
+
+.about .text{
+    width: 550px;
+}
+
+.main{
+    width: 1130px;
+    max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+
+
+.about .text h1{
+    font-size: 80px;
+    margin-bottom: 20px;
+}
+
+.about .text h5{
+    font-size: 25px;
+    margin-bottom: 25px;
+}
+span{
+    color: #E91E63;
+}
+
+.about .text p{
+    color: #fcfc;
+    line-height: 28px;
+    font-size: 18px;
+    margin-bottom: 45px;
+}
+
+
+.about .text button{
+    background-color: #E91E63;
+    color: #fff;
+    font-family: inherit;
+    border: 2px solid transparent;
+    font-weight: bold;
+    padding: 13px 30px;
+    border-radius: 30px;
+    transition: 0.4s;
+}
+
+
+.about .text button:hover{
+    background-color: transparent;
+    border: 2px solid #E91E63;
+    cursor: pointer;
+}
+
+
+
+a{
+    text-decoration: none;
+    color:#fff;
+}
+
+
+
+
+
